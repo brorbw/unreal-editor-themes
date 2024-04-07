@@ -21,3 +21,16 @@ location.
 
 ## OneDark
 ![OneDark](screenshots/OneDark.png)
+
+## Steam
+![Steam](screenshots/Steam.png)
+
+# Contribute
+Feel free to open a PR
+
+# Credits
+Some of the themes can be found here https://forums.unrealengine.com/t/small-theme-pack-for-ue-5-1/675958.
+
+Other interesting themes:
+- https://github.com/dracula/unreal-engine.git
+- https://github.com/catppuccin/unreal-engine
