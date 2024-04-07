@@ -12,3 +12,12 @@ location.
 
 ## VaporWave
 ![VaporWave](screenshots/VaporWave.png)
+
+## OneGray
+![OneGray](screenshots/OneGray.png)
+
+## OneGrayDarker
+![OneGrayDarker](screenshots/OneGrayDarker.png)
+
+## OneDark
+![OneDark](screenshots/OneDark.png)
