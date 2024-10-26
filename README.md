@@ -25,6 +25,14 @@ location.
 ## Steam
 ![Steam](screenshots/Steam.png)
 
+# Known issues
+
+If you encounter the error `"Import theme failed"` check if following folder exists, if not
+create it and retry.
+```sh
+C:\Users\<USER_NAME>\AppData\Local\UnrealEngine\Slate\Themes\
+```
+
 # Contribute
 Feel free to open a PR
 
