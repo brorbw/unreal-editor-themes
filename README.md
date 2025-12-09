@@ -10,8 +10,8 @@ location.
 ## Lighter
 ![Lighter](screenshots/Lighter.png)
 
-## VaporWave
-![VaporWave](screenshots/VaporWave.png)
+## Vaporwave
+![Vaporwave](screenshots/Vaporwave.png)
 
 ## OneGray
 ![OneGray](screenshots/OneGray.png)
